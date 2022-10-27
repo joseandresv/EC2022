@@ -1,0 +1,264 @@
+
+"
+---
+\
+aa
+adf\
+adsfasfd\
+afadf\
+afd\
+asdf\
+asf
+asf\
+cat hola.txt
+cat /proc/cpuinfo 
+cat prueba
+cat prueba.dat
+cat prueba_ordenada.log
+cat pruebota
+cat .ssh/id_ed25519.pub
+cat .zsh_history
+cat .zsh_history > github/EC2022/notas/test.log
+cd 
+cd ..
+cd .. 
+cd /
+cd / 
+cd ~
+cd Alumnos
+cd cli
+cd /etc/chromium
+cd github
+cd github/EC2022
+cd github/EC2022/
+cd github/EC2022/notas
+cd github/EC2022/notas/
+cd github/Estadistica-Computacional-fall2021
+cd github/repo-prueba
+cd KO
+cd lib
+cd lib32
+cd lib64
+cd ../libs
+cd libs
+cd local
+cd .local/share/flatpak/app/com.discordapp.Discord/x86_64/stable/0b2a257f0c96f27c452d21978b99ebb0f684763b11f7b64cf7df09a0c7732cc4/files/bin/
+cd massive-adventure-ubuntu
+cd materials
+cd native-messaging-hosts
+cd nosql2022
+cd repo-prueba
+cd share
+cd skalas
+cd src
+cd src/displaylink
+cd te
+cd test
+cd usr
+cd /usr/lib32
+cd /var/log
+chmod +x dependencies.sh
+cp materials/generals/Cli.md ../EC2022/notas/
+cp materials/generals/git_cli_cheatsheet.Rmd ../EC2022/notas
+./dependencies.sh
+./discord
+discord
+./displaylink-driver-5.6.1-59.184.run
+docker --help 
+docker images
+docker login -u skalas
+docker ps 
+docker ps -a
+docker ps -a 
+docker ps-a 
+docker ps -aqf "name=mongo"
+docker pull skalas/ec2022
+docker push skalas/ec2022
+docker run ec
+docker run -it ec
+docker run -it ec2022
+docker run -it skalas/ec2022
+docker run -it ubuntu
+docker run -p 10000
+docker run -p 8888
+docker start -ai c6dd
+docker start -ai d21af3fa993f
+docker system prune 
+echo ¨@¨
+echo "$HOME"
+echo "$PWD"
+echo 'asdasdasd \
+echo "hola alumnos"
+echo "hola alumnos¨\
+echo "man fg@#
+emacs -nw lol.org
+emacs -nw .zshrc
+fasdfasdf\
+fg
+fg --help 
+find 
+find chromiun-ffmpeg
+find -r chromiun-ffmpeg
+find / -type d -name chromium
+flatpak run com.discordapp.Discord
+flatpak run com.getmailspring.Mailspring
+flatpak search discord
+flatpak search mailspring
+ga .gitignore
+ga hola.txt
+ga MiguelEscalante.md
+gc -m 'ejemplo'
+gc -m 'fixes #16'
+gc -m 'lool'
+gc -m 'no agregamos pdfs'
+gc -m 'weee'
+git add .gitignore 
+git clone git@github.com
+git commit 
+git config --global pull.rebase false 
+git config pull.rebase false 
+git diff
+git init . 
+git pull 
+git push 
+git push origin main 
+git reset HEAD hola.txt
+git restore hola.txt
+git restore --staged hola.txt
+gs t
+gst
+gst 
+gst y
+head -1 /etc/passwd
+head /etc/passwd
+htop
+keychain id_rsa --agents ssh
+las
+ll
+ll 
+ll -a
+ll -a 
+ls
+ls 
+ls - 
+ls /
+ls -a
+ls -al
+ls .config/autostart
+ls && echo "Hola"
+ls && echo "Hola" >>pruebota
+ls && echo "Hola" >pruebota
+ls -h 
+ls --help 
+ls /home
+ls -l 
+ls materials
+ls materials/generals
+ls > prueba.dat
+ls >>prueba.dat 
+ls >prueba.dat 
+ls prueba.dat
+lsss && echo "HOla"
+ls /usr/lib/
+mailspring
+man fg
+man ls
+mkdir Alumnos
+mkdir KO 
+mkdir test
+mkdir test 
+nano 
+nano .config/autostart
+nano .config/autostart/flatpak.desktop
+nano .gitconfig
+nano .gitignore
+nano .gitignore 
+nano hol
+nano hola.txt
+nano lol
+nano MiguelEscalante.md
+nano .p10k.zsh
+nano .zsg
+	nano .zshrc
+nano .zshrc
+opera
+p10k configure
+pandoc -f gfm -t html Cli.
+pandoc -f gfm -t html Cli.md
+pandoc -f gfm -t html Cli.md >Cli.html
+pwd
+pwd 
+R 
+rm .antigen
+rm Cli.html
+rm ../../.gitconfig
+rm Git.html
+rm Git.md
+rm libffmpeg.so
+rm prueb
+rm pruebota
+rm -r .antigen
+rm -rf .antigen
+rm -r Rmarkdown_cache
+rm -r Rmarkdown_files
+sh
+sleep 1000
+sort < prueba.dat
+sort < prueba.dat >prueba_ordenada.log
+ssh ubuntu@35.161.122.90 
+stow -t ~/ . 
+sudo apt autoremove 
+sudo apt install chromium-codecs-ffmpeg-extra\
+sudo apt install cmake
+sudo apt install cmake-dev
+sudo apt install hddtemp lm-sensors
+sudo apt install libvterm
+sudo apt install libvterm-dev
+sudo apt install lm-sensors
+sudo apt install multimarkdown
+sudo apt install pandoc
+sudo apt install snapd
+sudo apt install tex-live-full
+sudo apt install texlive-full
+sudo apt install -y chromium-codecs-ffmpeg
+sudo apt remove 
+sudo apt remove forticlient
+sudo apt update 
+sudo apt update && sudo apt upgrade -y && sudo apt autoremove -y
+sudo ./displaylink-driver-5.6.1-59.184.run
+sudo find / -type d -name chromium
+sudo find / -type d -name chromium-*
+sudo find / -type d -name chromium-ffmpeg
+sudo find / -type f -name discord
+sudo find / -type f -name libffmpeg.so
+sudo ln -s /home/skalas/.local/share/flatpak/app/com.discordapp.Discord/x86_64/stable/0b2a257f0c96f27c452d21978b99ebb0f684763b11f7b64cf7df09a0c7732cc4/files/discord/libffmpeg.so\
+sudo ln -s /home/skalas/.local/share/flatpak/app/com.discordapp.Discord/x86_64/stable/0b2a257f0c96f27c452d21978b99ebb0f684763b11f7b64cf7df09a0c7732cc4/files/discord/libffmpeg.so /usr/lib/x86_64-linux-gnu/opera
+sudo ln -s /snap/chromium-ffmpeg/30/chromium-ffmpeg-108372/chromium-ffmpeg/libffmpeg.so .
+sudo ln -s /usr/lib/slack/libffmpeg.so /usr/lib/x86_64-linux-gnu/opera
+sudo ln -s /usr/share/code/libffmpeg.so /usr/lib/x86_64-linux-gnu/opera
+sudo mv libffmpeg.so.bck libffmpeg.so
+sudo mv /usr/lib/x86_64-linux-gnu/opera/libffmpeg.so /usr/lib/x86_64-linux-gnu/opera/libffmpeg.so.bck
+sudo reboot 
+sudo rm libffmpeg.so
+sudo rm -rf / 
+sudo rm /usr/lib/x86_64-linux-gnu/opera/libffmpeg.so
+sudo sensors-detect
+sudo snap install chromium-codecs-ffmpg
+sudo snap install chromium-ffmpeg
+sudo touch /holi 
+tail /etc/passwd
+tmux
+touch hola.txt
+touch /holi
+touch holi.txt
+typeset -g POWERLEVEL9K_INSTANT_PROMPT=quiet\
+update
+ /usr/lib/x86_64-linux-gnu/opera
+wc  -l prueba.dat
+wc prueba.dat
+which discord
+which flatpak
+which mailspring
+which slack
+whoami
+whoami 
